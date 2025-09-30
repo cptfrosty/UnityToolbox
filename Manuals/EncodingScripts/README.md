@@ -15,6 +15,9 @@
 
 ![alt text](https://github.com/cptfrosty/UnityToolbox/blob/main/Manuals/EncodingScripts/Media/Screenshot_2.png)
 
-Для меня подошло просто выставить "Unicode (UTF-8 with signature)"
+Для меня подошло просто выставить "Unicode (UTF-8 with signature)".
+
+Теперь каждый раз не надо менять кодировку скрипта
 
 ![alt text](https://github.com/cptfrosty/UnityToolbox/blob/main/Manuals/EncodingScripts/Media/Screenshot_3.png)
+
